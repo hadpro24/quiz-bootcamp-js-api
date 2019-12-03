@@ -2,5 +2,5 @@ Django==2.2.4
 django-cors-headers==3.0.2
 django-seed==0.1.9
 djangorestframework==3.9.4
-Pillow==6.0.0
+Pillow
 requests==2.22.0
